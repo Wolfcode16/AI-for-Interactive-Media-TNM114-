@@ -1,0 +1,6 @@
+behaviors:
+  CarBehavior:
+    trainer_type: ppo
+    max_steps: 100000
+    time_horizon: 32
+    summary_freq: 10000
