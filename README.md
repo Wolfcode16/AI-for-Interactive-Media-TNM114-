@@ -17,4 +17,5 @@ varied obstacle configurations.
 - Unity
 - Unity ML-Agents
 
-# Keywords: Reinforcement Learning -- PPO -- Deep Neural Network -- Reward Shaping
+# Keywords:
+Reinforcement Learning -- PPO -- Deep Neural Network -- Reward Shaping
